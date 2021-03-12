@@ -1,0 +1,28 @@
+*{
+    box-sizing: border-box;
+  }
+  
+  header{
+   text-align: center;
+   padding: 20px;
+  }
+
+  nav {
+    background-color:#1f1a1a;
+  
+    width: 95vw;
+    padding-right: 3px;
+  }
+ header nav ul li {
+     
+   display: inline-block;
+      color: white;
+      margin: 20px;
+      height: 20px;
+      padding-bottom: 2em;
+      
+      padding-right: 50px;
+
+  }
+  
+    
